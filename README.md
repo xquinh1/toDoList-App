@@ -1,8 +1,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=xquinh1&theme=vue-dark&show_icons=true&count_private=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xquinh1&theme=vue-dark&layout=&langs_count=5">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=xquinh1&repo=toDoList-App>
-[![GitHub Streak]
-          (https://github-readme-streak-stats.herokuapp.com?user=xquinh1&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xquinh1&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
